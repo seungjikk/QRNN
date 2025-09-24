@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+*.so
+uv/
+uv.lock
+
+# Jupyter Notebook
+.ipynb_checkpoints/
